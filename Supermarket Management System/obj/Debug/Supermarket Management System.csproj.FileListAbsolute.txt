@@ -1,0 +1,21 @@
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\bin\Debug\Supermarket Management System.exe.config
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\bin\Debug\Supermarket Management System.exe
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\bin\Debug\Supermarket Management System.pdb
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket Management System.csprojResolveAssemblyReference.cache
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.LoginScreen.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.Properties.Resources.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket Management System.csproj.GenerateResource.Cache
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket Management System.exe
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket Management System.pdb
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\bin\Debug\MySql.Data.dll
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.CashierHome.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.AddAdmin.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.AdminHome.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.DeleteAdmin.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.AddCashier.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.DeleteCashier.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.AddSupplier.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.DeleteSupplier.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.PostOrder.resources
+d:\visual studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.AddItem.resources
+D:\Visual Studio 2015\Projects\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.AllData.resources
